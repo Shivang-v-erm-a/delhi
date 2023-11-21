@@ -1,1 +1,0 @@
-void search(char name[], char password[]);
